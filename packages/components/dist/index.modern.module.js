@@ -1,0 +1,2 @@
+import e from"react";import r from"@material-ui/core/Button";var t=function(t){var n=t.children,a=function(e,r){if(null==e)return{};var t,n,a={},i=Object.keys(e);for(n=0;n<i.length;n++)r.indexOf(t=i[n])>=0||(a[t]=e[t]);return a}(t,["children","href"]);return e.createElement(e.Fragment,null,e.createElement(r,Object.assign({},a),n," asdasd"))};export{t as Button};
+//# sourceMappingURL=index.modern.module.js.map
